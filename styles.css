@@ -1,14 +1,21 @@
 /*  your css code here. If applicable */
 body{
 	width:1100px;
+	background-color:#CBD6CB;
 }
 .cell1{
 	width:200px;
 }
 .cell2{
 	width:600px;
+	text-align:center;
 	
 }
 .cell3{
 	width:200px;
+	
 }
+
+
+
+
